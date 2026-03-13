@@ -1,4 +1,4 @@
-Delivery Exception Management Dashboard 📦
+Delivery Exception Management Dashboard
 
 A lightweight and static, front-end logistics dashboard designed for reporting and tracking delivery exceptions. This project provides a clean, user-friendly interface to log issues, view real-time metrics, and filter data dynamically without the need for page reloads.
 
